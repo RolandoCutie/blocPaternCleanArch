@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "code": "apiKeyInvalid",
+  "message": "Your api key is invalid"
+}

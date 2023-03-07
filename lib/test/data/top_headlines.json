@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "businessinsider.com",
+      "title": "Salesforce's Marc Benioff says tech CEOs everywhere might soon unleash their inner Elons",
+      "description": "Hi, I'm Matt Turner, the editor in chief of business at Insider. Welcome back to Insider Today's Sunday Edition, a roundup of some of our top stories. Sign up here to get this briefing in your inbox each week. On the agenda today: Elon Musk let other car comp…",
+      "url": "https://biztoc.com/x/cdcfc084c6bacca6",
+      "urlToImage": "https://c.biztoc.com/p/cdcfc084c6bacca6/og.webp",
+      "publishedAt": "2023-03-05T14:14:05Z",
+      "content": "Hi, I'm Matt Turner, the editor in chief of business at Insider. Welcome back to Insider Today's Sunday Edition, a roundup of some of our top stories. Sign up here to get this briefing in your inbox … [+321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MobileSyrup"
+      },
+      "author": "Nida Zafar",
+      "title": "Telecom news roundup: price hikes and a (possible) strike [Feb. 25-Mar. 3]",
+      "description": "Bell and Telus customers will soon pay more for roaming services. The companies are implementing price hikes to their U.S. and international roaming plans. Changes will also apply to flanker brands Virgin Plus and Koodo. More details, and a recap of almost ev…",
+      "url": "https://mobilesyrup.com/2023/03/05/telecom-news-roundup-price-hikes-and-a-possible-strike/",
+      "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2023/01/header-telusinternational-shutterstock-scaled.jpg",
+      "publishedAt": "2023-03-05T14:02:37Z",
+      "content": "Bell and Telus customers will soon pay more for roaming services. The companies are implementing price hikes to their U.S. and international roaming plans. Changes will also apply to flanker brands V… [+3228 chars]"
+    }
+  ]
+}
